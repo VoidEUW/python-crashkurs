@@ -6,10 +6,12 @@
 2. [Grundlagen](#1-grundlagen)
     - [Basics - Hallo Welt](#basics---hallo-welt)
     - [Basics - Variablen](#basics---variablen)
+    - [Basics - if-Anweisungen](#basics---if-anweisungen)
 3. [Beispiele](#2-beispiele)
     - [Liste](#liste)
     - [Beispiel - Hallo Welt](#beispiel---hallo-welt)
     - [Beispiel - Variablen](#beispiel---variablen)
+    - [Beispiel - if-Anweisungen](#beispiel---if-anweisung)
 4. [Aufgaben](#3-aufgaben)
     - [Aufgabe - Hallo Welt](#aufgabe---hallo-welt)
 ---
