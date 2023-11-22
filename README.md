@@ -127,6 +127,11 @@ Alle Dateien in dem Beispielordner
 - variables.py -> variables()
 - if_condition.py -> if_condition()
 - if_and_else.py -> if_and_else_condition()
+- operators.py -> operators()
+- do_while_loop.py -> do_while_loop()
+- for_loop.py -> for_loop()
+- lists.py -> lists()
+- functions.py -> functions()
 
 ## Beispiel - Hallo Welt
 Das Beispiel kannst du wie folgt aufrufen:
