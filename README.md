@@ -1,3 +1,5 @@
+# Python-Crashkurs
+Dieser Crashkurs soll Anfängern versuchen Python schmackhaft zu machen. Es ist eine leichte Sprache zum Einsteigen in die Welt der Programmierer.
 # Inhaltsverzeichnis
 1. [Hinweise zur Benutzung](#1-hinweise-zur-benutzung)
     - [Allgemeine Hinweise](#1-hinweise-zur-benutzung)
@@ -6,12 +8,25 @@
 2. [Grundlagen](#1-grundlagen)
     - [Basics - Hallo Welt](#basics---hallo-welt)
     - [Basics - Variablen](#basics---variablen)
+    - [Basics - if-Anweisungen](#basics---if-anweisungen)
+    - [Basics - Operatoren](#basics---operatoren)
+    - [Basics - (do)while-Schleife](#basics---dowhile-schleife)
+    - [Basics - for-Schleife](#basics---for-schleife)
+    - [Basics - Listen](#basics---listen)
+    - [Basics - Funktionen](#basics---funktionen)
 3. [Beispiele](#2-beispiele)
     - [Liste](#liste)
     - [Beispiel - Hallo Welt](#beispiel---hallo-welt)
     - [Beispiel - Variablen](#beispiel---variablen)
+    - [Beispiel - if-Anweisungen](#beispiel---if-anweisung)
+    - [Beispiel - Operatoren](#beispiel---operatoren)
+    - [Beispiel - (do)while-Schleife](#beispiel---dowhile-schleife)
+    - [Beispiel - for-Schleife](#beispiel---for-schleife)
+    - [Beispiel - Listen](#beispiel---listen)
+    - [Beispiel - Funktionen](#beispiel---funktionen)
 4. [Aufgaben](#3-aufgaben)
     - [Aufgabe - Hallo Welt](#aufgabe---hallo-welt)
+    - [Aufgabe - Variablen](#lösung---variablen)
 ---
 
 # 1. Hinweise zur Benutzung
@@ -42,6 +57,7 @@ from beispiele.helloworld import helloworld
 helloworld() 
 # -> führt Hello World aus dem Beispielordner aus
 ```
+
 # 2. Grundlagen
 ## Basics - Hallo Welt
 Ziel dieser Übung ist es, sein erstes Programm zu schreiben. Programmierer starten üblicherweise mit einem "Hallo Welt", das hat sich weit verbreitet und ist auch selbst für erfahrene Programmierer immer das erste Programm in einer neuen Sprache.
@@ -98,6 +114,12 @@ else:
 
 Für ein Beispiel gehe zum [Beispiel](#beispiel---if-anweisung)
 
+## Basics - Operatoren
+## Basics - (do)while-Schleife
+## Basics - for-Schleife
+## Basics - Listen
+## Basics - Funktionen
+
 # 3. Beispiele
 ## Liste
 Alle Dateien in dem Beispielordner
@@ -140,6 +162,13 @@ from beispiele.if_and_else import if_and_else_condition
 condition = True # Oder False
 if_and_else_condition(condition) # <- Hier wird dann die Bedingung übergeben, die die die Zeile darüber definiert hast
 ```
+
+## Beispiel - Operatoren
+## Beispiel - (do)while-Schleife
+## Beispiel - for-Schleife
+## Beispiel - Listen
+## Beispiel - Funktionen
+
 # 4. Aufgaben
 ## Aufgabe - Hallo Welt
 Schreibe ein Hallo-Welt Programm in die Aufgabendatei in ```aufgaben/helloworld.py```. Dort schreibst du unter den Kommentar dein Programm
@@ -154,3 +183,4 @@ def helloworld():
 
     print('Hallo Welt')
 ```
+## Lösung - Variablen
